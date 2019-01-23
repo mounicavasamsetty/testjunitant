@@ -1,4 +1,4 @@
-<project name = "JunitTest" default = "test" basedir = ".">
+<project name = "testjunitant" basedir = ".">
    <property name = "testdir" location = "test" />
    <property name = "srcdir" location = "src" />
    <property name = "full-compile" value = "true" />
